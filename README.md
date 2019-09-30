@@ -1,4 +1,6 @@
 # remote-relays
-Simple IR receiver that controls several relays.
+Simple Arduino-based IR receiver that controls several relays.
+Ultimately want a Harry Potter wand remote to control power to various lighting fixtures.
 
-Simple IR receiver hooked up to several relays.  Ultimately want a Harry Potter wand remote to control power to various lighting fixtures.
+Arduino configuration used:
+- Nano, ATMega328P (old bootloader)
